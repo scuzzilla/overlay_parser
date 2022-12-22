@@ -1,4 +1,4 @@
-### oparser.sh is a bash script made to support the extraction of the L3VPN Overlay configuration from an MPLS PE router 
+### oparser.sh is a bash script made to support the extraction of the L3VPN Overlay configuration from MPLS PE routers 
 
 0. the first main assumption is that the input configuration is conform with the 'CISCO Formal' format
 1. the second main assumption is that the input configuration is including L3VPN configuration sesctions 
